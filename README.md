@@ -38,6 +38,16 @@ cd addtocart-by-ikrash
 
 Ensure you have a local server setup (e.g., XAMPP, WAMP, or MAMP).
 
+Create the database:
+
+CREATE DATABASE add_to_cart;
+
+Import the database:
+
+Locate the add-to-cart.sql file in the project directory.
+
+Import it into your database management tool (e.g., phpMyAdmin).
+
 Place the project folder in your server's root directory (e.g., htdocs for XAMPP).
 
 Start your server and access the project in your browser:
@@ -53,6 +63,12 @@ Browse items and use the Add to Cart button to add them to the cart.
 View the cart to manage items (update quantities or remove items).
 
 The Grand Total will be updated dynamically based on the cart's contents.
+
+Screenshots
+
+(Add relevant screenshots here to showcase the UI and functionality)
+
+Contributing
 
 Contributions are welcome! To contribute:
 
