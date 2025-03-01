@@ -1,4 +1,4 @@
-AddToCart is a dynamic and responsive PHP-based shopping cart system featuring a clean, modern UI and smooth functionality. The system is built with responsive design principles to ensure compatibility across all devices. It provides a seamless user experience for managing items in the cart, calculating the grand total, and more.
+Add to Cart is a dynamic and responsive PHP-based shopping cart system featuring a clean, modern UI and smooth functionality. The system is built with responsive design principles to ensure compatibility across all devices. It provides a seamless user experience for managing items in the cart, calculating the grand total, and more.
 
 **Features**
 
