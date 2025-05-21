@@ -74,7 +74,7 @@ Commit your changes.
 Push the branch and open a Pull Request.
 
 **Author**
-This project was created by M. Ikrash Ibn Haroon.
+### 🖥️ Designed with ❤️ by [M. Ikrash Ibn Haroon](https://github.com/ikrashharoon)
 
 **License**
 
